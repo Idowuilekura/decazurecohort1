@@ -1,0 +1,11 @@
+*.exe
+*.venv
+
+terraform_folder/.terraform/
+terraform_folder/data_terraform/.terraform/
+terraform_folder/local_file_tf/.terraform/
+.*terraform.lock.hcl
+*.tfstate
+*.tfstate.backup
+*.pptx
+*.csv
