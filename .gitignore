@@ -9,3 +9,4 @@ terraform_folder/local_file_tf/.terraform/
 *.tfstate.backup
 *.pptx
 *.csv
+**/.terraform/*
